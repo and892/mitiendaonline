@@ -1,0 +1,10 @@
+{
+  "mitiendaonlineApp": {
+    "PedidoEstado": {
+      "null": "",
+      "COMPLETADO": "COMPLETADO",
+      "PENDIENTE": "PENDIENTE",
+      "CANCELADO": "CANCELADO"
+    }
+  }
+}

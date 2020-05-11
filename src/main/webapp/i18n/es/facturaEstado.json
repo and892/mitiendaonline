@@ -1,0 +1,10 @@
+{
+  "mitiendaonlineApp": {
+    "FacturaEstado": {
+      "null": "",
+      "PAGADO": "PAGADO",
+      "EXPEDIDO": "EXPEDIDO",
+      "CANCELADO": "CANCELADO"
+    }
+  }
+}

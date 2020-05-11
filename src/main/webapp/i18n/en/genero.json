@@ -1,0 +1,10 @@
+{
+  "mitiendaonlineApp": {
+    "Genero": {
+      "null": "",
+      "HOMBRE": "HOMBRE",
+      "MUJER": "MUJER",
+      "OTRO": "OTRO"
+    }
+  }
+}

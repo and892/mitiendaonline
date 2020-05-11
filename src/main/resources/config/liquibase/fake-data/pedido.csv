@@ -1,0 +1,11 @@
+id;fecha_pedido;estado;codigo_pedido;cliente_id;producto_pedido_id
+1;2020-05-10T11:19:58;PENDIENTE;backing up navigate;1;1
+2;2020-05-10T09:29:49;COMPLETADO;calculating cross-media XML;2;2
+3;2020-05-10T07:06:31;CANCELADO;asymmetric Dynamic pink;3;3
+4;2020-05-10T14:28:43;COMPLETADO;matrix open-source;4;4
+5;2020-05-10T19:00:51;PENDIENTE;pixel holistic;5;5
+6;2020-05-10T12:46:54;COMPLETADO;optimize Hawaii Senior;6;6
+7;2020-05-10T08:30:46;COMPLETADO;Liaison Nevada;7;7
+8;2020-05-10T05:56:19;COMPLETADO;Manager Savings Account Toys;8;8
+9;2020-05-10T22:29:44;PENDIENTE;help-desk synthesizing Manager;9;9
+10;2020-05-10T16:34:18;PENDIENTE;Macedonia overriding;10;10

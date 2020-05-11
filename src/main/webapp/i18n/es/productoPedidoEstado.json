@@ -1,0 +1,9 @@
+{
+  "mitiendaonlineApp": {
+    "ProductoPedidoEstado": {
+      "null": "",
+      "DISPONIBLE": "DISPONIBLE",
+      "AGOTADO": "AGOTADO"
+    }
+  }
+}
